@@ -1,4 +1,4 @@
-package com.solvative.bookvault;
+package com.solvative;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
